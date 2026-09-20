@@ -4,7 +4,7 @@ A small command-line tool that fetches song lyrics. Enter a song name and artist
 
 ## Download
 
-Go to [Releases](https://github.com/tintincodes/code/lyrics-c/releases) and download the latest binary for your platform.
+Go to [Releases](https://github.com/tintinthedev/code/lyrics-c/releases) and download the latest binary for your platform.
 
 Then make it executable and run:
 
