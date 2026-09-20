@@ -5,7 +5,7 @@ A small command-line tool that fetches song lyrics. Enter a song name and artist
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/26175af8-267a-4af2-ad44-334062b31760" />
 
 ## A note for developers (ignore if you're a normal person)
-"Why did you use C?" because AI wrote this code, so, if AI does the heavy lifting (on this case, writing the low level code), why would I use a language that naturally bloats my application?
+"Why did you use C?" because AI wrote this code, so if AI does the heavy lifting (on this case, writing the low level code), why would I use a language that naturally bloats my application?
 
 ## Download
 
