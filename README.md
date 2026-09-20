@@ -2,6 +2,9 @@
 
 A small command-line tool that fetches song lyrics. Enter a song name and artist, get the lyrics back.
 
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/26175af8-267a-4af2-ad44-334062b31760" />
+
+
 ## Download
 
 Go to [Releases](https://github.com/tintinthedev/lyrics-c/releases) and download the latest binary for your platform.
